@@ -21,15 +21,11 @@ The dashboard is designed to deliver clear, actionable insights through various 
 The project includes several usability features, such as a "Clear Slicer" button for quick resets, a "Data Details" bookmark for metric explanations, and a "Download Raw Data" button that gives users the flexibility to export data for further analysis.
 
 ## Insights:
-### Insights from Overview Analysis Dashboard
-The Overview Analysis dashboard reveals key booking trends and revenue metrics. We can see peak booking values and trip patterns, helping to identify high-traffic times and locations. The analysis of different payment types and vehicle models helps in optimizing pricing and resource allocation for maximum profitability.
-
-## Insights
 
 | Overview DashBoard | Time Analysis |
 |-------------|-------------|
 | ![Overview DashBoard](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/DashBoard/Screenshot%202025-08-27%20141036.png) | ![hospital_insights](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/DashBoard/Screenshot%202025-08-27%20141052.png) |
-| This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.|
+|The Overview Analysis dashboard reveals key booking trends and revenue metrics. We can see peak booking values and trip patterns, helping to identify high-traffic times and locations. | The Time Analysis dashboard provides a deeper look into temporal patterns of trip demand. By analyzing bookings in 10-minute intervals and across days of the week, we can pinpoint peak and off-peak hours.|
 
 ---
 
