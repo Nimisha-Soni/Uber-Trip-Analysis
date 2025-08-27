@@ -23,7 +23,24 @@ The project includes several usability features, such as a "Clear Slicer" button
 ## Insights:
 ### Insights from Overview Analysis Dashboard
 The Overview Analysis dashboard reveals key booking trends and revenue metrics. We can see peak booking values and trip patterns, helping to identify high-traffic times and locations. The analysis of different payment types and vehicle models helps in optimizing pricing and resource allocation for maximum profitability.
-![DashBoard1](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/DashBoard/Screenshot%202025-08-27%20141036.png)
+
+## Insights
+
+| Executive Summary | Hospital Insights |
+|-------------|-------------|
+| ![executive_summary](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/14917b4e-fc60-4bfd-840c-66ad4057e914) | ![hospital_insights](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/da6fc0a8-00f1-411e-8c8e-53f8261a38fd) |
+| This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.|
+
+---
+
+| Patient Outcome Analysis | Healthcare Provider Metrics |
+|-------------|-------------|
+| ![patient_outcome_analysis](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/5eb0795a-fc88-4030-93e4-3953e73c413d) | ![healthcare_provider_metrics](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a33604b8-5619-4d07-a451-8c51aa73bd93) |
+| Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions. | In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape. |
+
+---
+
+| Monthly Expenses Trends | 
 
 ### Insights from Time Analysis Dashboard
 The Time Analysis dashboard provides a deeper look into temporal patterns of trip demand. By analyzing bookings in 10-minute intervals and across days of the week, we can pinpoint peak and off-peak hours. This data is critical for dynamic pricing strategies and ensuring optimal driver availability during high-demand periods.
