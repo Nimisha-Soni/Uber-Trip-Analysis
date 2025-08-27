@@ -1,5 +1,5 @@
 # Uber-Trip-Analysis using Power BI
-![Uber Logo](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/1659761100uber-logo-png.png)
+![Uber Logo](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/Uber_LOGO.png)
 
 ---
 ## Objective:
@@ -29,14 +29,14 @@ The project includes several usability features, such as a "Clear Slicer" button
 
 | Overview DashBoard | Time Analysis |
 |-------------|-------------|
-| ![Overview DashBoard](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/DashBoard/Screenshot%202025-08-27%20141036.png) | ![hospital_insights](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/DashBoard/Screenshot%202025-08-27%20141052.png) |
+| ![Overview DashBoard](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/Overview%20Analysis.png) | ![Time Analytics](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/Time%20Analysis.png) |
 |The Overview Analysis dashboard reveals key booking trends and revenue metrics. We can see peak booking values and trip patterns, helping to identify high-traffic times and locations. | The Time Analysis dashboard provides a deeper look into temporal patterns of trip demand. By analyzing bookings in 10-minute intervals and across days of the week, we can pinpoint peak and off-peak hours.|
 
 ---
 
 | Details DashBoard ||
 |-------------|-------------|
-| ![patient_outcome_analysis](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/DashBoard/Screenshot%202025-08-27%20141107.png) ||
+| ![Details Dashboard](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/Details%20Dashboard.png) ||
 | The Details Tab dashboard acts as a powerful tool for granular data exploration. By using drill-through functionality, users can dive into the specifics of any trip, vehicle type, or location.||
 
 ---
