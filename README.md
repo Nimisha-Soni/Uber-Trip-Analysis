@@ -29,7 +29,7 @@ The project includes several usability features, such as a "Clear Slicer" button
 
 ---
 
-| Details DashBoard |
+| Details DashBoard ||
 |-------------|-------------|
 | ![patient_outcome_analysis](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/DashBoard/Screenshot%202025-08-27%20141107.png) |
 | The Details Tab dashboard acts as a powerful tool for granular data exploration. By using drill-through functionality, users can dive into the specifics of any trip, vehicle type, or location.|
