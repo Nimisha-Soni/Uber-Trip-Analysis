@@ -29,17 +29,10 @@ The project includes several usability features, such as a "Clear Slicer" button
 
 ---
 
-| Patient Outcome Analysis | Healthcare Provider Metrics |
+| Details DashBoard |
 |-------------|-------------|
-| ![patient_outcome_analysis](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/5eb0795a-fc88-4030-93e4-3953e73c413d) | ![healthcare_provider_metrics](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/a33604b8-5619-4d07-a451-8c51aa73bd93) |
-| Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions. | In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape. |
+| ![patient_outcome_analysis](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/DashBoard/Screenshot%202025-08-27%20141107.png) |
+| The Details Tab dashboard acts as a powerful tool for granular data exploration. By using drill-through functionality, users can dive into the specifics of any trip, vehicle type, or location.|
 
 ---
 
-| Monthly Expenses Trends | 
-
-### Insights from Time Analysis Dashboard
-The Time Analysis dashboard provides a deeper look into temporal patterns of trip demand. By analyzing bookings in 10-minute intervals and across days of the week, we can pinpoint peak and off-peak hours. This data is critical for dynamic pricing strategies and ensuring optimal driver availability during high-demand periods.
-
-### Insights from Details Tab Dashboard
-The Details Tab dashboard acts as a powerful tool for granular data exploration. By using drill-through functionality, users can dive into the specifics of any trip, vehicle type, or location. This capability allows for in-depth root-cause analysis and provides a complete view of the data, which is essential for detailed operational planning.
