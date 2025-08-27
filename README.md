@@ -36,3 +36,10 @@ The project includes several usability features, such as a "Clear Slicer" button
 
 ---
 
+## ER Diagram: 
+
+![er_diagram](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/Model%20View.png)
+
+**Uber Trip ERD:** Entity Relationship Diagram illustrating data structure and relationships. Gain a deeper understanding of the underlying data architecture through the ERD. This visual representation showcases the relationships within the Uber Trip analytics project.
+
+---
