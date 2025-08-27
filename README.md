@@ -23,6 +23,7 @@ The project includes several usability features, such as a "Clear Slicer" button
 ## Insights:
 ### Insights from Overview Analysis Dashboard
 The Overview Analysis dashboard reveals key booking trends and revenue metrics. We can see peak booking values and trip patterns, helping to identify high-traffic times and locations. The analysis of different payment types and vehicle models helps in optimizing pricing and resource allocation for maximum profitability.
+![DashBoard1](https://github.com/Nimisha-Soni/Uber-Trip-Analysis/blob/main/DashBoard/Screenshot%202025-08-27%20141036.png)
 
 ### Insights from Time Analysis Dashboard
 The Time Analysis dashboard provides a deeper look into temporal patterns of trip demand. By analyzing bookings in 10-minute intervals and across days of the week, we can pinpoint peak and off-peak hours. This data is critical for dynamic pricing strategies and ensuring optimal driver availability during high-demand periods.
