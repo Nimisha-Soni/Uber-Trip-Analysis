@@ -19,3 +19,4 @@ The dashboard is designed to deliver clear, actionable insights through various 
 
 ### User-Friendly Enhancements:
 The project includes several usability features, such as a "Clear Slicer" button for quick resets, a "Data Details" bookmark for metric explanations, and a "Download Raw Data" button that gives users the flexibility to export data for further analysis.
+
